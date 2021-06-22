@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charleswu52
 - 👀 I’m interested in string compression and fast retrieval,real-time analysis and processing of streaming data,...
-- 🌱 I’m currently learning  string matching algorithm.
+- 🌱 I’m learning about streaming data processing framework, string compression and matching algorithms.
 - 📫 Contact me :charleswu5201@gmail.com
 
 <!---
